@@ -4,8 +4,8 @@
     "image": "https://raw.githubusercontent.com/shacoqian/nfttest/master/2.jpg",
     "attributes": [
         {
-            "c": "a",
-            "d": "b"
+            "trait_type": "Second",
+            "value": "test"
         }
     ]
 }
