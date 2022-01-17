@@ -3,13 +3,14 @@
     "description": "The second test nft",
     "image": "https://raw.githubusercontent.com/shacoqian/nfttest/master/2.jpg",
     "attributes": [
-        {
-            "trait_type": "first",
-            "value": "bil"
-        },
-        {
-            "trait_type": "hello",
-            "value": "us"
-        }
+        {"trait_type":"base","value":"jellyfish"},
+        {"trait_type":"eyes","value":"wink"},
+        {"trait_type":"mouth","value":"happy"},
+        {"trait_type":"level","value":3},
+        {"trait_type":"stamina","value":11.7},
+        {"trait_type":"personality","value":"happy"},
+        {"display_type":"boost_number","trait_type":"aqua_power","value":10},
+        {"display_type":"boost_percentage","trait_type":"stamina_increase","value":5},
+        {"display_type":"number","trait_type":"generation","value":1}
     ]
 }
