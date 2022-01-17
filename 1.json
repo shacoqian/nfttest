@@ -1,0 +1,11 @@
+{
+    "name": "hello YD",
+    "description": "The first test nft",
+    "image": "https://raw.githubusercontent.com/shacoqian/nfttest/master/1.jpg",
+    "attributes": [
+        {
+            "a": "c",
+            "b": "d"
+        }
+    ]
+}
