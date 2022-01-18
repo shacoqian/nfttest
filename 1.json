@@ -1,13 +1,9 @@
 {
+    "attributes": [
+        {"trait_type":"base","value":"jellyfish"},
+        {"trait_type":"hello","value":"world"}
+    ],
     "name": "hello YD",
     "description": "The first test nft",
-    "image": "https://raw.githubusercontent.com/shacoqian/nfttest/master/1.jpg",
-    "attributes": [
-        {
-            "value": "joe"
-        },
-        {
-            "value": "jack"
-        }
-    ]
+    "image": "https://raw.githubusercontent.com/shacoqian/nfttest/master/1.jpg"
 }
